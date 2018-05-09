@@ -1,10 +1,10 @@
 package PracticeCar;
 
-public class CarPart {
+public class Wheel {
 
     private String type;
 
-    public CarPart(String t) {
+    public Wheel(String t) {
         type = t;
     }
 
