@@ -1,6 +1,4 @@
-# PracticeCar
-
-## Assignmment
+# Assignmment
 
 1. Create a Java project in eclipse, called "PracticeCar"
 2. Create a class called "Simulator", with a main() method.
