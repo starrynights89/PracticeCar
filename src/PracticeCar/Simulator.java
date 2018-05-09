@@ -1,12 +1,8 @@
 package PracticeCar;
 
-public class Simulator extends Car {
-
-    public void run() {
-        super.run();
-    }
+public class Simulator {
 
     public static void main(String[] args) {
-        System.out.println("Running  ");
+        new Car().run();
     }
 }
