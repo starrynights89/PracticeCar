@@ -51,6 +51,29 @@ public abstract class CarPart implements Functional, Interactive{
     }
 
     public void changeCondition(float delta) {
-
+        this.condition += delta;
+        if (this.condition < 0) {
+            this.condition = 0;
+        } else if (this.condition > this.bestCondition) {
+            this.condition = this.bestCondition;
+        }
     }
+
+    public void makeBroken() {
+        this.condition = 0;
+    }
+
+    public void replacePart() {
+        this.condition = this.bestCondition;
+        this.currentTotalMiles = 0;
+    }
+
+    // The status method can accept an extra message
+    public void status() {
+        System.out.println("Your " + this.partName + " (serial #00" + this.serialNumber + ") is at "
+                            + this.condition + this.conditionMeasure + ") says: ");
+        System.out.println(extraMessage);
+    }
+
+    
 }
