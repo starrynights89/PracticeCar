@@ -71,9 +71,20 @@ public abstract class CarPart implements Functional, Interactive{
     // The status method can accept an extra message
     public void status() {
         System.out.println("Your " + this.partName + " (serial #00" + this.serialNumber + ") is at "
-                            + this.condition + this.conditionMeasure + ") says: ");
+                            + this.condition + this.conditionMeasure + ".");
+    }
+
+    public void status(String extraMessage) {
+        System.out.print("Your " + this.partName + " ("
+                        + this.condition + this.conditionMeasure + ") says: ");
         System.out.println(extraMessage);
     }
 
-    
+    public void crashCar() throws CarCrashException {
+        throw new CarCrashException("The " + this.partName + " broke and crashed the car!");
+    }
+
+    public void function(float milesDriven) throws CarCrashException {
+        this.currentTotalMiles += milesDriven;
+    }
 }

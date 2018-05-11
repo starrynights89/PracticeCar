@@ -2,7 +2,7 @@ package PracticeCar;
 
 import java.util.Scanner;
 
-public class Interactive {
+public interface Interactive {
     public default float getFloat(String prompt) {
         return Float.parseFloat(this.getString(prompt));
     }

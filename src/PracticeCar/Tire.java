@@ -2,14 +2,14 @@ package PracticeCar;
 
 import java.util.Random;
 
-public class Wheel extends CarPart {
+public class Tire extends CarPart {
     private static short instanceCount;
     private short tireNumber;
     private float inflationPSI;
 
     // CONSTRUCTOR
 
-    public Wheel(float inflationPSI) {
+    public Tire(float inflationPSI) {
         super("tire", "% traction", 100);
         instanceCount += 1;
         this.tireNumber = instanceCount;
@@ -31,19 +31,18 @@ public class Wheel extends CarPart {
     }
 
     // Override status method to include tire number, not just serial number
-
-
-    private String type;
-
-    public Wheel(String t) {
-        type = t;
+    public void status() {
+        System.out.println("Tire # " + this.tireNumber + " (serial #00" + this.serialNumber + ") is at "
+                            + this.condition + this.conditionMeasure + " and " + this.inflationPSI + "psi.");
     }
 
-    public String getType() {
-        return type;
+    public void status(String extraMessage) {
+        System.out.print("Tire #" + this.tireNumber + " ("
+                        + this.condition + this.conditionMeasure + ", " + this.inflationPSI + "psi) says: ");
+        System.out.println(extraMessage);
     }
 
-    public void setType(String type) {
-        this.type = type;
+    public void function(float milesDriven) throws CarCrashException {
+
     }
 }
