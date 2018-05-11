@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0118ebfb-af28-40ef-b6c2-cbcc65666fce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/CarCrashException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/CarPart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Engine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Functional.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/GasTank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Interactive.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/OilTank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Simulator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticeCar/PracticeCar/Tire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeCar/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeCar/GasTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeCar/OilTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeCar/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeCar/CarPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/CarPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeCar/Interactive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Interactive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeCar/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeCar/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeCar/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Tire.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +18,7 @@
       <file leaf-file-name="Simulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Simulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="126">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
@@ -44,11 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tire.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tire.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Tire.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="1533">
+              <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PracticeCar/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -56,8 +49,8 @@
       <file leaf-file-name="CarPart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="80" column="5" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+            <state relative-caret-position="86">
+              <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -74,22 +67,13 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="231">
               <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
                 <element signature="e#342#343#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeCar/Engine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -127,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/PracticeCar/OilTank.java" />
         <option value="$PROJECT_DIR$/src/PracticeCar/Car.java" />
         <option value="$PROJECT_DIR$/src/PracticeCar/Tire.java" />
+        <option value="$PROJECT_DIR$/src/PracticeCar/Engine.java" />
       </list>
     </option>
   </component>
@@ -143,8 +128,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="27" />
+    <option name="x" value="31" />
+    <option name="y" value="26" />
     <option name="width" value="1765" />
     <option name="height" value="1035" />
   </component>
@@ -156,7 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,8 +165,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,18 +274,18 @@
       <workItem from="1525988322937" duration="2793000" />
       <workItem from="1525993238161" duration="356000" />
       <workItem from="1525993780757" duration="3624000" />
+      <workItem from="1526001120338" duration="866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20720000" />
+    <option name="totallyTimeSpent" value="21586000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="22" width="1412" height="828" extended-state="0" />
+    <frame x="25" y="21" width="1412" height="828" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -312,7 +297,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2514793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25517753" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,13 +306,14 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32692307" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -774,16 +760,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeCar/GasTank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Simulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="126">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
@@ -796,13 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -819,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="231">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -829,17 +801,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/GasTank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="80" column="5" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
+        <state relative-caret-position="42">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Tire.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="1533">
+          <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="71" column="26" lean-forward="true" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>

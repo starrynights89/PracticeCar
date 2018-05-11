@@ -43,6 +43,35 @@ public class Tire extends CarPart {
     }
 
     public void function(float milesDriven) throws CarCrashException {
-
+        super.function(milesDriven);
+        Random rand = new Random();
+        this.changeCondition(-1 * (milesDriven / 1000) * rand.nextFloat());
+        float pressureLoss;
+        for (int i = 0; i < (milesDriven); i++) {
+            if (rand.nextInt(2000) == 1999) {
+                pressureLoss = (rand.nextFloat() * this.inflationPSI * 0.5f);
+                this.inflationPSI -= pressureLoss;
+                this.status("Tire #" + this.tireNumber + " just lost " + pressureLoss + "psi!");
+                break;
+            }
+        }
+        if (this.condition < 10 || this.inflationPSI < 15) {
+            this.crashCar();
+        } else if (this.condition < 25) {
+            this.status("Low on traction.");
+            if (getBoolean("Replace?")) {
+                this.replacePart();
+                this.status("Just replaced this worn out tire.");
+            }
+        } else if (this.inflationPSI < 27) {
+            int remainder = 32 - (int) this.inflationPSI;
+            this.status("Tire is low!");
+            if (getBoolean("Fill it?")) {
+                this.inflationPSI = 32;
+                this.status("Traction is OK but just added " + remainder + "psi to fill this tire.");
+            }
+        } else {
+            this.status("This tire has enough air and traction");
+        }
     }
 }

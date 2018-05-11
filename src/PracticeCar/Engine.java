@@ -1,4 +1,4 @@
 package PracticeCar;
 
-public class Engine {
+public class Engine extends  CarPart{
 }
