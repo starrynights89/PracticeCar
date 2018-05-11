@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="0118ebfb-af28-40ef-b6c2-cbcc65666fce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/PracticeCar/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/Engine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracticeCar/GasTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/GasTank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracticeCar/OilTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeCar/OilTank.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="0118ebfb-af28-40ef-b6c2-cbcc65666fce" name="Default" comment="" />
+>>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +23,13 @@
       <file leaf-file-name="Simulator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Simulator.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="168">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#91#92#0" expanded="true" />
                 <element signature="e#122#123#0" expanded="true" />
@@ -29,20 +38,36 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="Tire.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Tire.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
               <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+=======
+      <file leaf-file-name="CarPart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="Engine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="903">
               <caret line="43" column="85" selection-start-line="43" selection-start-column="85" selection-end-line="43" selection-end-column="85" />
+=======
+      <file leaf-file-name="Interactive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PracticeCar/Interactive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -50,17 +75,30 @@
       <file leaf-file-name="CarPart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="86">
               <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+=======
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="GasTank.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/GasTank.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+=======
+      <file leaf-file-name="Wheel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeCar/Wheel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -68,12 +106,20 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PracticeCar/Car.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="252">
               <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
                 <element signature="e#342#343#0" expanded="true" />
+=======
+            <state relative-caret-position="69">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -130,8 +176,13 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="x" value="75" />
     <option name="y" value="16" />
+=======
+    <option name="x" value="287" />
+    <option name="y" value="97" />
+>>>>>>> Stashed changes
     <option name="width" value="1765" />
     <option name="height" value="1035" />
   </component>
@@ -143,7 +194,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< Updated upstream
       <pane id="PackagesPane" />
+=======
+>>>>>>> Stashed changes
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -168,6 +222,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,6 +327,7 @@
       <workItem from="1525881469348" duration="490000" />
       <workItem from="1525883129526" duration="384000" />
       <workItem from="1525908277002" duration="5162000" />
+<<<<<<< Updated upstream
       <workItem from="1525977212917" duration="1341000" />
       <workItem from="1525984674955" duration="1315000" />
       <workItem from="1525988322937" duration="2793000" />
@@ -278,14 +335,25 @@
       <workItem from="1525993780757" duration="3624000" />
       <workItem from="1526001120338" duration="866000" />
       <workItem from="1526003249868" duration="635000" />
+=======
+      <workItem from="1525926482686" duration="346000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="22221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="13" width="1412" height="828" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="11637000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="287" y="97" width="1765" height="1035" extended-state="0" />
+    <editor active="true" />
+>>>>>>> Stashed changes
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,23 +368,31 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" weight="0.2581361" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24398828" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32692307" />
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32867134" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -502,6 +578,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Simulator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Simulator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
@@ -516,9 +621,14 @@
         <state relative-caret-position="68">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -553,9 +663,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -576,9 +691,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -606,9 +726,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -636,9 +761,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -666,9 +796,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -696,9 +831,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -719,9 +859,14 @@
         <state relative-caret-position="92">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
@@ -742,22 +887,37 @@
         <state relative-caret-position="46">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           <folding>
+<<<<<<< Updated upstream
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Functional.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="42">
           <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+=======
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Interactive.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="189">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
@@ -771,6 +931,10 @@
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="184">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -783,16 +947,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Car.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="252">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+=======
+        <state relative-caret-position="69">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/Tire.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
@@ -815,11 +988,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Functional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PracticeCar/CarPart.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeCar/Interactive.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="86">
           <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
         </state>
@@ -829,6 +1016,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
           <caret line="43" column="85" selection-start-line="43" selection-start-column="85" selection-end-line="43" selection-end-column="85" />
+=======
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
