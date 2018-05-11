@@ -1,5 +1,7 @@
 package PracticeCar;
 
+//Code freeze
+
 import java.util.Random;
 
 public class Tire extends CarPart {

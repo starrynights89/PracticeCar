@@ -1,5 +1,7 @@
 package PracticeCar;
 
+//Code freeze
+
 import java.util.Scanner;
 
 public interface Interactive {
